@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{DB9A1B3E-59F2-438B-900E-7824C204DE73}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Borealis", "Borealis\Borealis.vcxproj", "{2128B8A0-2994-49F3-A895-C25D470EA1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2128B8A0-2994-49F3-A895-C25D470EA1CD}.Debug|x64.ActiveCfg = Debug|x64
+		{2128B8A0-2994-49F3-A895-C25D470EA1CD}.Debug|x64.Build.0 = Debug|x64
+		{2128B8A0-2994-49F3-A895-C25D470EA1CD}.Release|x64.ActiveCfg = Release|x64
+		{2128B8A0-2994-49F3-A895-C25D470EA1CD}.Release|x64.Build.0 = Release|x64
+		{DB9A1B3E-59F2-438B-900E-7824C204DE73}.Debug|x64.ActiveCfg = Debug|x64
+		{DB9A1B3E-59F2-438B-900E-7824C204DE73}.Debug|x64.Build.0 = Debug|x64
+		{DB9A1B3E-59F2-438B-900E-7824C204DE73}.Release|x64.ActiveCfg = Release|x64
+		{DB9A1B3E-59F2-438B-900E-7824C204DE73}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
