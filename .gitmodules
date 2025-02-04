@@ -1,0 +1,3 @@
+[submodule "Borealis/Vendor/SPDLog"]
+	path = Borealis/Vendor/SPDLog
+	url = https://github.com/gabime/spdlog
