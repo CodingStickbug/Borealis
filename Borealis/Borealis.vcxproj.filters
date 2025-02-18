@@ -4,6 +4,9 @@
     <Filter Include="Borealis">
       <UniqueIdentifier>{765073D6-621D-CEE1-8B36-BC8977620370}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Borealis\Events">
+      <UniqueIdentifier>{9A1B67FB-06A7-D4BF-0FB8-57B47BC230C0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Borealis.h" />
@@ -15,6 +18,18 @@
     </ClInclude>
     <ClInclude Include="src\Borealis\Entrypoint.h">
       <Filter>Borealis</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Borealis\Events\ApplicationEvent.h">
+      <Filter>Borealis\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Borealis\Events\Event.h">
+      <Filter>Borealis\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Borealis\Events\KeyEvent.h">
+      <Filter>Borealis\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Borealis\Events\MouseEvent.h">
+      <Filter>Borealis\Events</Filter>
     </ClInclude>
     <ClInclude Include="src\Borealis\Log.h">
       <Filter>Borealis</Filter>

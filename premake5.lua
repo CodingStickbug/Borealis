@@ -26,6 +26,7 @@ project "Borealis"
 
 	includedirs
 	{
+		"%{prj.name}/src",
 		"%{prj.name}/Vendor/SPDLog/include"
 	}
 
